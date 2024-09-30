@@ -1,7 +1,6 @@
 <html>
  <head>
  <title>Pierwszy skrypt</title>
- </head>
  <body>
  <?php
    $artykul = array(
